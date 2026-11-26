@@ -5,10 +5,10 @@
 #include <ArduinoMqttClient.h>
 
 // ---------- NETWORK ----------
-const char WIFI_SSID[] = "Noor";
-const char WIFI_PASS[] = "123456789";
+const char WIFI_SSID[] = "___";
+const char WIFI_PASS[] = "___";
 
-const char BROKER_HOST[] = "172.18.45.139";
+const char BROKER_HOST[] = "___";
 const int BROKER_PORT = 1883;
 
 // ---------- PINS ----------
