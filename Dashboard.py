@@ -18,9 +18,9 @@ from PyQt5.QtWidgets import (
 # ---------------- CONFIGURATION ----------------
 # ---------------- CONFIGURATION ----------------
 
-API_URL = "http://172.18.45.139:5000/api/dashboard"
+API_URL = "http://___:5000/api/dashboard"
 
-BROKER = "172.18.45.139"
+BROKER = "__"
 PORT = 1883
 NUM_SLOTS = 4
 
